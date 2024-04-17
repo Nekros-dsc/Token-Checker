@@ -36,7 +36,7 @@
 
 ### <a id="preview"></a>👁️ 〢 Preview
 
-![Preview](https://cdn.discordapp.com/attachments/1050804739136290816/1230269415833210962/Token-Checker.png)
+![]([https://cdn.discordapp.com/attachments/1050804739136290816/1230269415833210962/Token-Checker.png](https://imgur.com/2nvQgAz))
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
 - [Nekros](https://github.com/Nekros-dsc)
