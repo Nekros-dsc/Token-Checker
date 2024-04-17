@@ -36,7 +36,7 @@
 
 ### <a id="preview"></a>👁️ 〢 Preview
 
-![p](https://imgur.com/2nvQgAz)
+![](https://imgur.com/2nvQgAz.png)
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
 - [Nekros](https://github.com/Nekros-dsc)
