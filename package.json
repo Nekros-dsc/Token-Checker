@@ -1,0 +1,12 @@
+{
+    "name": "token-checker",
+    "version": "1.0.0",
+    "description": "Discord Token Checker for checking discord tokens.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "fs": "^0.0.1-security"
+    }
+}
